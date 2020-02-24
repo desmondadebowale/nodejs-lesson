@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-lesson",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desmondadebowale/nodejs-lesson.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Mysql"
+  ],
+  "author": "Desmond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desmondadebowale/nodejs-lesson/issues"
+  },
+  "homepage": "https://github.com/desmondadebowale/nodejs-lesson#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
